@@ -1,2 +1,3 @@
 test branch! The master branch.
 Add infos in Branch DEV.
+Add one line at new branch dev.
